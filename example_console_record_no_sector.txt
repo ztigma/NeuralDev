@@ -1,0 +1,142 @@
+indique una expresion en lenguaje humano (ejemplo: si 1 mayor 0 entonces devuelve true en c#): si 1 mayor 0 entonces devuelve true en js
+LOAD:
+indice.js
+END LOAD:
+[
+  Neurodo {
+    simbol: 'c#',
+    names: [ 'en c#' ],
+    values: [],
+    dir: 'sectores_neuronales/c#.js'
+  },
+  Neurodo {
+    simbol: 'css',
+    names: [ 'en css' ],
+    values: [],
+    dir: 'sectores_neuronales/css.js'
+  }
+]
+no hay sentido conceptual!
+por favor indique cual es el sentido conceptual.
+indique un sibolo del sentido conceptual: simbol (c#) = js
+indique un nombre del sentido conceptual: name (en c#) = js
+ADD INDICE START
+LOAD:
+indice.js
+END LOAD:
+ADD INDICE END
+sentido conceptual agregado
+LOAD:
+indice.js
+END LOAD:
+[
+  Neurodo {
+    simbol: 'c#',
+    names: [ 'en c#' ],
+    values: [],
+    dir: 'sectores_neuronales/c#.js'
+  },
+  Neurodo {
+    simbol: 'css',
+    names: [ 'en css' ],
+    values: [],
+    dir: 'sectores_neuronales/css.js'
+  },
+  Neurodo {
+    simbol: 'js',
+    names: [ 'js' ],
+    values: [],
+    dir: 'sectores_neuronales/js.js'
+  }
+]
+Neurodo {
+  simbol: 'js',
+  names: [ 'js' ],
+  values: [],
+  dir: 'sectores_neuronales/js.js'
+}
+LOAD:
+sectores_neuronales/js.js
+END LOAD:
+desconosco la palabra "si" del sector js podrias ayudarme respondiendo las siguientes preguntas:
+indique un sibolo del significado de la palabra "si": simbol = if
+para el sector js que significa "si"? si = (value) = if(__next__)
+LOAD:
+sectores_neuronales/js.js
+END LOAD:
+LOAD:
+sectores_neuronales/js.js
+END LOAD:
+desconosco la palabra "1" del sector js podrias ayudarme respondiendo las siguientes preguntas:
+indique un sibolo del significado de la palabra "1": simbol = 1
+para el sector js que significa "1"? 1 = (value) = 1
+LOAD:
+sectores_neuronales/js.js
+END LOAD:
+LOAD:
+sectores_neuronales/js.js
+END LOAD:
+desconosco la palabra "mayor" del sector js podrias ayudarme respondiendo las siguientes preguntas:
+indique un sibolo del significado de la palabra "mayor": simbol = >
+para el sector js que significa "mayor"? mayor = (value) = >
+LOAD:
+sectores_neuronales/js.js
+END LOAD:
+LOAD:
+sectores_neuronales/js.js
+END LOAD:
+desconosco la palabra "0" del sector js podrias ayudarme respondiendo las siguientes preguntas:
+indique un sibolo del significado de la palabra "0": simbol = 0
+para el sector js que significa "0"? 0 = (value) = 0
+LOAD:
+sectores_neuronales/js.js
+END LOAD:
+LOAD:
+sectores_neuronales/js.js
+END LOAD:
+desconosco la palabra "entonces" del sector js podrias ayudarme respondiendo las siguientes preguntas:
+indique un sibolo del significado de la palabra "entonces": simbol = {__next__}
+para el sector js que significa "entonces"? entonces = (value) = {__next__}
+LOAD:
+sectores_neuronales/js.js
+END LOAD:
+LOAD:
+sectores_neuronales/js.js
+END LOAD:
+desconosco la palabra "devuelve" del sector js podrias ayudarme respondiendo las siguientes preguntas:
+indique un sibolo del significado de la palabra "devuelve": simbol = return
+para el sector js que significa "devuelve"? devuelve = (value) = return
+LOAD:
+sectores_neuronales/js.js
+END LOAD:
+LOAD:
+sectores_neuronales/js.js
+END LOAD:
+desconosco la palabra "true" del sector js podrias ayudarme respondiendo las siguientes preguntas:
+indique un sibolo del significado de la palabra "true": simbol = true
+para el sector js que significa "true"? true = (value) = true
+LOAD:
+sectores_neuronales/js.js
+END LOAD:
+LOAD:
+sectores_neuronales/js.js
+END LOAD:
+desconosco la palabra "en" del sector js podrias ayudarme respondiendo las siguientes preguntas:
+indique un sibolo del significado de la palabra "en": simbol = en
+para el sector js que significa "en"? en = (value) = 
+LOAD:
+sectores_neuronales/js.js
+END LOAD:
+LOAD:
+sectores_neuronales/js.js
+END LOAD:
+desconosco la palabra "js" del sector js podrias ayudarme respondiendo las siguientes preguntas:
+indique un sibolo del significado de la palabra "js": simbol = js
+para el sector js que significa "js"? js = (value) = 
+LOAD:
+sectores_neuronales/js.js
+END LOAD:
+LOAD:
+sectores_neuronales/js.js
+END LOAD:
+if(1 > 0){return true  }

@@ -1,0 +1,103 @@
+indique una expresion en lenguaje humano (ejemplo: si 1 mayor 0 entonces devuelve true en c#): si 1 mayor 0 entonces devuelve true en c#
+LOAD:
+indice.js
+END LOAD:
+[
+  Neurodo {
+    simbol: 'c#',
+    names: [ 'en c#' ],
+    values: [],
+    dir: 'sectores_neuronales/c#.js'
+  },
+  Neurodo {
+    simbol: 'css',
+    names: [ 'en css' ],
+    values: [],
+    dir: 'sectores_neuronales/css.js'
+  }
+]
+LOAD:
+sectores_neuronales/c#.js
+END LOAD:
+desconosco la palabra "si" del sector c# podrias ayudarme respondiendo las siguientes preguntas:
+indique un sibolo del significado de la palabra "si": simbol = if
+para el sector c# que significa "si"? si = (value) = if(__next__)
+LOAD:
+sectores_neuronales/c#.js
+END LOAD:
+LOAD:
+sectores_neuronales/c#.js
+END LOAD:
+desconosco la palabra "1" del sector c# podrias ayudarme respondiendo las siguientes preguntas:
+indique un sibolo del significado de la palabra "1": simbol = 1
+para el sector c# que significa "1"? 1 = (value) = 1
+LOAD:
+sectores_neuronales/c#.js
+END LOAD:
+LOAD:
+sectores_neuronales/c#.js
+END LOAD:
+desconosco la palabra "mayor" del sector c# podrias ayudarme respondiendo las siguientes preguntas:
+indique un sibolo del significado de la palabra "mayor": simbol = >
+para el sector c# que significa "mayor"? mayor = (value) = >
+LOAD:
+sectores_neuronales/c#.js
+END LOAD:
+LOAD:
+sectores_neuronales/c#.js
+END LOAD:
+desconosco la palabra "0" del sector c# podrias ayudarme respondiendo las siguientes preguntas:
+indique un sibolo del significado de la palabra "0": simbol = 0
+para el sector c# que significa "0"? 0 = (value) = 0
+LOAD:
+sectores_neuronales/c#.js
+END LOAD:
+LOAD:
+sectores_neuronales/c#.js
+END LOAD:
+desconosco la palabra "entonces" del sector c# podrias ayudarme respondiendo las siguientes preguntas:
+indique un sibolo del significado de la palabra "entonces": simbol = {}
+para el sector c# que significa "entonces"? entonces = (value) = {__next__}
+LOAD:
+sectores_neuronales/c#.js
+END LOAD:
+LOAD:
+sectores_neuronales/c#.js
+END LOAD:
+desconosco la palabra "devuelve" del sector c# podrias ayudarme respondiendo las siguientes preguntas:
+indique un sibolo del significado de la palabra "devuelve": simbol = return
+para el sector c# que significa "devuelve"? devuelve = (value) = return
+LOAD:
+sectores_neuronales/c#.js
+END LOAD:
+LOAD:
+sectores_neuronales/c#.js
+END LOAD:
+desconosco la palabra "true" del sector c# podrias ayudarme respondiendo las siguientes preguntas:
+indique un sibolo del significado de la palabra "true": simbol = true
+para el sector c# que significa "true"? true = (value) = true
+LOAD:
+sectores_neuronales/c#.js
+END LOAD:
+LOAD:
+sectores_neuronales/c#.js
+END LOAD:
+desconosco la palabra "en" del sector c# podrias ayudarme respondiendo las siguientes preguntas:
+indique un sibolo del significado de la palabra "en": simbol = 
+para el sector c# que significa "en"? en = (value) = 
+LOAD:
+sectores_neuronales/c#.js
+END LOAD:
+LOAD:
+sectores_neuronales/c#.js
+END LOAD:
+desconosco la palabra "c#" del sector c# podrias ayudarme respondiendo las siguientes preguntas:
+indique un sibolo del significado de la palabra "c#": simbol = c#
+para el sector c# que significa "c#"? c# = (value) = 
+LOAD:
+sectores_neuronales/c#.js
+END LOAD:
+LOAD:
+sectores_neuronales/c#.js
+END LOAD:
+if(1 > 0){return true  }
